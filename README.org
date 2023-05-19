@@ -1,0 +1,9 @@
+* cl-keycloak
+
+Basic Common Lisp library for connecting with Keycloak OIDC
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/ikbenlike/cl-keycloak.git |
+| commit  | 5b77f5e                                          |
+| systems | cl-keycloak                                      |
+|---------+--------------------------------------------------|
