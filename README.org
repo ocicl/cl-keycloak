@@ -7,3 +7,4 @@ Basic Common Lisp library for connecting with Keycloak OIDC
 | commit  | 5b77f5e                                          |
 | systems | cl-keycloak                                      |
 |---------+--------------------------------------------------|
+ 
